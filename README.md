@@ -7,11 +7,18 @@ Here are some ideas to get you started:
 
 -->
 
+I am Kehinde. A frontend React and VueJS developer.
+
 - 🔭 I’m currently working on a Spotify app with `NextJS`, `Typescript` and `PostgreSQL`
+
 - 🌱 I’m currently learning `Typescript` and `Redux-toolkit`
+
 - 👯 I’m looking to collaborate on Open source `React` projects
+
 - 🤔 I’m looking for help with `Typescript` in `React`
+
 - 💬 Ask me about web accessibility.
+
 - 📫 How to reach me: [adeleke5140](https://twitter.com/adeleke5140)
-- 😄 Pronouns: he/him
+
 - ⚡ Fun fact: I really like Philosophy

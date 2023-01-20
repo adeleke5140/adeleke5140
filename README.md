@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 I am Kehinde. A frontend React and VueJS developer.
 
-- 🔭 I’m currently working on my blog with `NextJS`, `Typescript`, `Tailwind` and `Markdown`
+- 🔭 I’m currently working on my portfloio and blog with `NextJS`, `Typescript`, `Tailwind` and `Markdown`
 
 - 🌱 I’m currently learning `Typescript` and `Redux-toolkit`
 

@@ -19,7 +19,7 @@ I am Kehinde. A frontend React and VueJS developer.
 
 - 💬 Ask me about web accessibility.
 
-- 📫 How to reach me: [adeleke5140](https://twitter.com/adeleke5140)
+- 📫 How to reach me: [adeleke5140](https://twitter.com/adeleke5140) and [email](kehindeadeleke927@gmail.com)
 
 - ⚡ Fun fact: I really like Philosophy
 

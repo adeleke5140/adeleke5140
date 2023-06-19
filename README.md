@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 I am Kehinde. A frontend React and VueJS developer.
 
-- 🔭 I’m currently working on my send_over with `Astro`, `React`, `Typescript`, `Tailwind` and `Supabase`
+- 🔭 I’m currently looking for work. If you hiring a frontend dev, please send me a message.
 
-- 🌱 I’m currently learning `Typescript` and `Redux-toolkit`
+- 🌱 I’m currently building with `NextJS` and `Tailwind`
 
 - 👯 I’m looking to collaborate on Open source `React` projects
 

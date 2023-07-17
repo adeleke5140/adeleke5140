@@ -7,21 +7,19 @@ Here are some ideas to get you started:
 
 -->
 
-I am Kehinde. A frontend React and VueJS developer.
+I am Kehinde, a software engineer with a focus on web accessibility.
+I believe the web should be inclusive as possible
 
 - 🔭 I’m currently looking for work. If you hiring a frontend dev, please send me a message.
 
-- 🌱 I’m currently building with `NextJS` and `Tailwind`
+- 👯 I am on the lookout for Open source projects
 
-- 👯 I’m looking to collaborate on Open source `React` projects
-
-- 🤔 I’m looking for help with `Typescript` in `React`
 
 - 💬 Ask me about web accessibility.
 
 - 📫 How to reach me: [adeleke5140](https://twitter.com/adeleke5140) and [email](kehindeadeleke927@gmail.com)
 
-- ⚡ Fun fact: I really like Philosophy
+- ⚡ Fun fact: I really like Philosophy and anime.
 
 ### My Toolkit  
 <div>

@@ -1,6 +1,6 @@
 ### Hello, 
 
-It's Kehinde. I am trying to create something exciting and potentially lasting.
+It's Kehinde. I create things that excites me; they could be potentially lasting.
 Every idea here is something that positively excited me.
 
 Coding is an expression of the creative spark in me.

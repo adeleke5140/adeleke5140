@@ -1,8 +1,8 @@
 ### Hello, 
 
-It's Kehinde. I create things that excite me; they could be potentially lasting.
+Trying to create something that constitutes an artistic endeavour beyond myself.
 
-Coding is an expression of the creative spark in me. I also really enjoy web accessibility and contributed a bit to Anki: **the best-spaced repitition app**
+Coding is an expression of the creative spark in me. I also really enjoy web accessibility and contributed a bit to Anki: **the best-spaced repetition app**
 
 I am currently learning Data structures and Algorithms, `Ocaml` and `Rust`.
 

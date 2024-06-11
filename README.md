@@ -1,6 +1,6 @@
 ### Hello, 
 
-Trying to create something that constitutes an artistic endeavour beyond myself.
+Trying to create art.
 
 Coding is an expression of the creative spark in me. I also really enjoy web accessibility and contributed a bit to Anki: **the best-spaced repetition app**
 

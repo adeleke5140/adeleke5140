@@ -1,3 +1,3 @@
 ### Hello, 
 
-i'm tryog to get cracked
+i'm trying to get cracked

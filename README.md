@@ -2,4 +2,4 @@
 
 I write React, Typescript, Node and Rust
 
-_i'm trying to get cracked_
+I'm rebuilding my [site](https://kehinde.xyz)

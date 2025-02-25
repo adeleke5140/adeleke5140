@@ -1,5 +1,5 @@
 ### Hello, 
 
-Design Engineer and Rustaean.
+Design Engineer and Rustaean. On a journey to creating art and beauty.
 
-I'm rebuilding my [site](https://kehinde.xyz)
+[Website](https://kehinde.xyz), and you can reach out to me at k@kehinde.me
